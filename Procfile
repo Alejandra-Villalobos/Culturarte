@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/CulturarteAPI3-0.0.1-SNAPSHOT
+web: java -Dserver.port=$PORT -jar -jar target/*.jar
